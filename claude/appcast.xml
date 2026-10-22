@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tako Claude</title>
+        <item>
+            <title>Tako Claude 1.1.0</title>
+            <pubDate>Thu, 22 Oct 2026 23:22:43 +0200</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>✨ Features</h3>
+<ul>
+<li>check for updates with sparkle</li>
+</ul>
+<h3>🧹 Internal</h3>
+<ul>
+<li>remove dead code</li>
+</ul>
+<h3>🔧 Build</h3>
+<ul>
+<li>remove tako dock</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/thomas-seres/tako-releases/releases/download/claude-v1.1.0/TakoClaude-1.1.0.dmg" length="6487563" type="application/octet-stream" sparkle:edSignature="3GnP37tR16icSzX0jGKUGwUVYqwO8jfLrhaJxabE3iS1Da7B8HWO7AEIuwAP5QLgQ1XkOpUqmQnMIYOqCxIrDA=="></enclosure>
+        </item>
+    </channel>
+</rss>
