@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tako Calendar</title>
+        <item>
+            <title>Tako Calendar 0.5.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:17:35 +0200</pubDate>
+            <sparkle:version>0.5.0</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>✨ Features</h3>
+<ul>
+<li>check for updates with sparkle</li>
+</ul>
+<h3>🐛 Bug Fixes</h3>
+<ul>
+<li><b>calendar:</b> open the existing mirror from book room, not a new event</li>
+<li><b>calendar:</b> sign out a google account whose refresh token is dead</li>
+</ul>
+<h3>🧹 Internal</h3>
+<ul>
+<li><b>calendar:</b> remove conflict management</li>
+<li>remove dead code</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/thomas-seres/tako-releases/releases/download/calendar-v0.5.0/TakoCalendar-0.5.0.dmg" length="11887856" type="application/octet-stream" sparkle:edSignature="Hwy78jhomJZ+hfpV/JwZZrmB/bCS7KtQhlXvrZ4FUgoheb8xXC3bs4lIFcdakqqibKpOzWkFIar58tPgvKReDg=="></enclosure>
+        </item>
+    </channel>
+</rss>
